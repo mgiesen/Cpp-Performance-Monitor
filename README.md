@@ -27,7 +27,7 @@ To include `CppPerformanceMonitor` in your project, simply add the header file t
 ## Example
 
 ```cpp
-#include "Performance.hpp"
+#include "Performance.h"
 
 int main() {
     Performance perf;
