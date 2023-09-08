@@ -32,12 +32,12 @@ To include `CppPerformanceMonitor` in your project, simply add the header file t
 int main() {
     Performance perf;
 
-    int process_id = perf.start("Sorting Algorithm", Performance::resolution::milliseconds);
+    int process_sorting = perf.start("Sorting Algorithm", Performance::resolution::milliseconds);
 
     // Your code here
     // ...
 
-    perf.stop(process_id);
+    perf.stop(process_sorting);
     perf.show_results();
 
     return 0;
