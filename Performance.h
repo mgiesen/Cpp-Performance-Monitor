@@ -1,6 +1,6 @@
 /*
  * File: Performance.h
- * Project: CppPerformanceTracker
+ * Project: CppPerformanceMonitor
  * File Created: Thursday, 7th September 2023, 9:00 pm
  * Author: Maximilian Giesen
  *
