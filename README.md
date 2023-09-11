@@ -45,6 +45,16 @@ int main() {
 
 ```
 
+```
+---------------------------------------------------------------------------
+                             Performance List
+---------------------------------------------------------------------------
+
+Sorting Algorithm                                                      0 ms
+
+---------------------------------------------------------------------------
+```
+
 ## Contact
 
 For any issues, questions, or contributions, feel free to open an issue on this GitHub repository.
