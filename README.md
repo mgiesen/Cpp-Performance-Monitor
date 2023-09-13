@@ -1,8 +1,8 @@
-# CppPerformanceMonitor
+# Cpp-Performance-Monitor
 
 ## Overview
 
-`CppPerformanceMonitor` is a C++ class you can use to easily keep track of how long different parts of your code take to run.
+`Cpp-Performance-Monitor` is a C++ class you can use to easily keep track of how long different parts of your code take to run.
 
 ## Features
 
@@ -18,7 +18,7 @@
 
 ## Installation
 
-To include `CppPerformanceMonitor` in your project, simply add the header file to your source code and include is as shown
+To include `Cpp-Performance-Monitor` in your project, simply add the header file to your source code and include is as shown
 
 ```cpp
 #include "Performance.h"
